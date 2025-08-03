@@ -84,14 +84,10 @@ The system is tested using:
 - Robustness against class imbalance
 - Real-time attack attribution
 
-## 📖 References
-
-See full References list for papers and datasets used.
-
 ## 🙋‍♂️ Author
 
-**Anil [Your Full Name]**  
-Final Year Project – B.Tech in Artificial Intelligence & Data Science  
+**Anil [Gadagoni Anil]**  
+– B.Tech in Artificial Intelligence & Data Science  
 CMR Institute of Technology, Hyderabad  
-📧 [Your Email] | 🌐 [Your LinkedIn]
+📧 [gadagonianil@gmail.com] | 🌐 [www.linkedin.com/in/gadagoni-anil]
 
